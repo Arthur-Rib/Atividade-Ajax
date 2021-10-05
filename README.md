@@ -12,5 +12,5 @@
 
 ## Contribuidores 🤓
 
-* [Manuel Antunes](https://github.com/Manuel-Antunes)
+* [Arthur Brito](https://github.com/Arthur-Rib)
 * [Felipe Alencar](https://github.com/felipealencar)
